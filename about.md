@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Software developer from Montevideo, Uruguay.
-
-Currently working as part of the Android generator team at [Genexus Artech](http://www.genexus.com).
+Born in Montevideo, Uruguay.
+Software Engineer graduated from [FING - UdelaR](http://www.universidad.edu.uy).
+Part of the dev team @ [Genexus](http://www.genexus.com).
