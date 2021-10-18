@@ -4,5 +4,7 @@ title: About
 ---
 
 Montevideo, Uruguay
-Software Engineer 
+
+Software Engineer
+
 [FING - UdelaR](http://www.universidad.edu.uy) graduate
