@@ -4,7 +4,6 @@ url:              juandiana.com
 signoff:          Juan
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
 links:
   - name:         About
     url:          /about
